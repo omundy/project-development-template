@@ -10,7 +10,7 @@ A framework for creative or social impact projects.
 
 
 
-## Part I - Concept
+## 1 - Concept
 
 Identify a topic, collect research, prepare a summary for a brainstorming session.
 
@@ -37,7 +37,7 @@ In groups, brainstorm on your topic(s) using the <a href="materials/brainstormin
 
 
 
-## Part II - Proposal
+## 2 - Proposal
 
 Create a pitch deck (10-15 slide Google Presentation) to share and plan your project that contains:
 
@@ -60,7 +60,7 @@ Create a pitch deck (10-15 slide Google Presentation) to share and plan your pro
 
 
 
-## Part III - Prototype
+## 3 - Prototype
 
 Create a working “proof of concept” of your app.
 
@@ -81,7 +81,7 @@ In groups, share your prototypes to get feedback:
 
 
 
-## Part IV - Design
+## 4 - Design
 
 Design iterations of main views.
 
@@ -105,7 +105,7 @@ Share your iterations to get feedback before coding the final design.
 
 
 
-## Part V - Deliverables
+## 5 - Deliverables
 
 Your finished project should include:
 
@@ -118,7 +118,7 @@ Your finished project should include:
 <details>
 <summary><b>In-class activity</b></summary>
 
-In class: We will share final projects in <a href="https://en.wikipedia.org/wiki/Lightning_talk">lightning talks</a> (5 min.)
+We will share final projects in <a href="https://en.wikipedia.org/wiki/Lightning_talk">lightning talks</a> (3 min.)
 
 </details>
 
