@@ -21,7 +21,7 @@ Identify a topic, collect research, prepare a summary for a brainstorming sessio
 1. Bring the above to class for the...
 
 <details>
-<summary><b>In-class activity</b></summary>
+<summary>In-class activity</summary>
 
 In groups, brainstorm on your topic(s) using the <a href="materials/brainstorming-disney-method/" target="_blank">Disney Creative Strategy</a>. How might you create something that helps others discuss, think about, or help to solve the issue.
 
@@ -51,7 +51,7 @@ Create a pitch deck (10-15 slide Google Presentation) to share and plan your pro
 
 
 <details>
-<summary><b>In-class activity</b></summary>
+<summary>In-class activity</summary>
 
 <a href="https://en.wikipedia.org/wiki/Lightning_talk">Lightning talks</a> of your pitches (3 min.)
 
@@ -70,7 +70,7 @@ Create a working “proof of concept” of your app.
 
 
 <details>
-<summary><b>In-class activity</b></summary>
+<summary>In-class activity</summary>
 
 In groups, share your prototypes to get feedback:
 
@@ -93,7 +93,7 @@ Design iterations of main views.
 
 <details>
 
-<summary><b>In-class activity</b></summary>
+<summary>In-class activity</summary>
 
 Share your iterations to get feedback before coding the final design.
 
@@ -116,7 +116,7 @@ Your finished project should include:
 1. An updated pitch (with screenshots and/or video) to document and share your finished project.
 
 <details>
-<summary><b>In-class activity</b></summary>
+<summary>In-class activity</summary>
 
 We will share final projects in <a href="https://en.wikipedia.org/wiki/Lightning_talk">lightning talks</a> (3 min.)
 
@@ -135,4 +135,4 @@ We will share final projects in <a href="https://en.wikipedia.org/wiki/Lightning
 ## Notes
 
 - While inspired by design thinking structures, this can be used for any creative or social impact project.
-- Resources, documentation etc. can be found on specific course materials.
+- Resources, documentation, deadlines, etc. can be found on specific course materials.
