@@ -3,11 +3,15 @@
 A framework for creative or social impact projects.
 
 
+Current version https://github.com/omundy/dig245-final
+
+
+<!-- MOVED TO dig245-final -->
+
+<!--
+
+
 ![flowchart](materials/development-flowchart.svg)
-
-
-
-
 
 
 ## 1 - Concept
@@ -123,7 +127,7 @@ We will share final projects in <a href="https://en.wikipedia.org/wiki/Lightning
 </details>
 
 
-
+ -->
 
 
 
